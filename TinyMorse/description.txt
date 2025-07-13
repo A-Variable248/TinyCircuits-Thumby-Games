@@ -1,0 +1,12 @@
+Just a simple morse to English translator!
+Controls:
+A - dash
+B - dot
+Up - space
+Down - slash
+Left - delete from the current letter
+Right - exit
+Note: text doesn't display properly when the text is too long
+
+
+Author: A-Variable248
